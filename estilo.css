@@ -1,10 +1,15 @@
-.geral{
-	border-top:10px solid #9382c1;	
+body{
+	background: url('imagens/bg-degrade-top.jpg') no-repeat top left #d870c1;
+}
+
+.geral{	
+	margin-top: 10px;
 }
 
 .sessao{
 	float: left;
 	width: 100%;
+	background-color: #fff;
 }
 
 .conteudo-central{

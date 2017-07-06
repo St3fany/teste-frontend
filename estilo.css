@@ -1,0 +1,113 @@
+.geral{
+	border-top:10px solid #9382c1;	
+}
+
+.sessao{
+	float: left;
+	width: 100%;
+}
+
+.conteudo-central{
+	padding:10px 0;
+	width: 90%;
+	margin-left: 5%;
+}
+
+#menu{
+	float: right;
+	list-style: none;
+}
+#menu li{
+	float: left;
+	margin: 0 15px;
+}
+#menu li a{
+	color:#8585c1;
+	text-decoration: none;
+	font-size: 16px; 
+	font-weight: bold;
+	padding: 2px 10px;
+}
+#menu li a:hover{
+	color:#FFF;
+	background-color: #8585c1;
+}
+
+#banner{
+	background: url(imagens/banner.png) no-repeat top center #4C85AB;
+	background-size: 100%;
+	float: left;
+	width: 100%;
+	height: 495px;
+
+}
+#sub-conteudo-central{
+	text-align: center;
+	width: 35%;
+	margin-left: 32.5%;
+	margin-bottom: 3em;
+}
+
+#sub-conteudo-central h1{
+	color:#8585c1;
+	font-weight: normal;
+}
+
+#sub-conteudo-central p{
+	color:#585656;
+	font-size: 16px;
+	line-height: 19px;
+}
+
+.cx_produto{
+	float: left;
+	width: 25%;
+	margin-left: 8.3%;
+	text-align: center;
+	margin-bottom: 3em;
+}
+
+.cx_produto strong{
+	color: #8585c1;
+}
+
+.cx_produto div{
+	padding: 20px 0;
+	color:#585656;
+}
+
+.cx_produto a{
+	color:#FFF;
+	background-color: #8585c1;
+	font-weight: bold;
+	font-size: 14px;
+	padding: 7px 25px;
+	text-decoration: none;
+	border-radius: 7px;
+	moz-border-radius: 7px;
+	webkit-border-radius: 7px;
+}
+.cx_produto a:hover{
+	background-color: #2C567D;
+}
+
+
+
+.footer{
+	background-color: #8585C1;
+}
+
+.footer .conteudo-central{
+	text-align: center;
+	color:#FFF;
+	font-size: 14px;
+	font-weight: bold;
+	padding: 30px 0 80px 0;
+}
+.footer .conteudo-central a{
+	color: #FFF;
+}
+.footer .conteudo-central a:hover{
+	color:#069;
+}
+
